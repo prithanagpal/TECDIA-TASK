@@ -4,7 +4,7 @@ import time
 
 # parameters needed
 INPUT_VIDEO = "tecdia video.mp4"   #update the filename accordingly
-OUTPUT_VIDEO = "reconstructed_final_30fps.mp4"
+OUTPUT_VIDEO = "reconstructed_final_video.mp4"
 DOWNSAMPLE = (64, 64)
 MIN_LARGE_BLOCK = 40               
 TAIL_SIZE = 30                     
